@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/github.io/CV/static/css/main.6770b1e1.chunk.css",
+    "main.js": "/github.io/CV/static/js/main.82ae9f59.chunk.js",
+    "main.js.map": "/github.io/CV/static/js/main.82ae9f59.chunk.js.map",
+    "runtime-main.js": "/github.io/CV/static/js/runtime-main.822425ba.js",
+    "runtime-main.js.map": "/github.io/CV/static/js/runtime-main.822425ba.js.map",
+    "static/js/2.ba35a379.chunk.js": "/github.io/CV/static/js/2.ba35a379.chunk.js",
+    "static/js/2.ba35a379.chunk.js.map": "/github.io/CV/static/js/2.ba35a379.chunk.js.map",
+    "static/js/3.df58f624.chunk.js": "/github.io/CV/static/js/3.df58f624.chunk.js",
+    "static/js/3.df58f624.chunk.js.map": "/github.io/CV/static/js/3.df58f624.chunk.js.map",
+    "index.html": "/github.io/CV/index.html",
+    "static/css/main.6770b1e1.chunk.css.map": "/github.io/CV/static/css/main.6770b1e1.chunk.css.map",
+    "static/js/2.ba35a379.chunk.js.LICENSE.txt": "/github.io/CV/static/js/2.ba35a379.chunk.js.LICENSE.txt",
+    "static/media/profpic.70925ee3.png": "/github.io/CV/static/media/profpic.70925ee3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.822425ba.js",
+    "static/js/2.ba35a379.chunk.js",
+    "static/css/main.6770b1e1.chunk.css",
+    "static/js/main.82ae9f59.chunk.js"
+  ]
+}
